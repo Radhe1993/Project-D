@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.502">
+  <properties />
+  
+  
+            <testcase name="customerShouldDepositMoneySuccessfully" time="1.710" classname="com.bank.testsuite.LoginPageTest" />
+                <testcase name="customerShouldWithdrawMoneySuccessfully" time="1.547" classname="com.bank.testsuite.LoginPageTest" />
+                <testcase name="customerShouldLoginAndLogoutSuceessfully" time="1.245" classname="com.bank.testsuite.LoginPageTest" />
+      
+</testsuite>
